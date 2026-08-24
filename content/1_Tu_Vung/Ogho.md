@@ -1,0 +1,8 @@
+---
+type: tu_vung
+---
+# Ogho
+
+**D-ṭhā.i.p129**: *Yañca jalaṃ taḷākaṃ gahetuṃ na sakkoti, ajjhottharitvā gacchati, taṃ* ***[[ogho]]****ti vuccati*. [Nước nào mà không thể giữ lại trong hồ, tràn ra & chảy đi, đó được gọi là “***[[ogho]]*** *– dòng nước lũ*”]
+
+**S-ṭhā.1.p16**: *Sabbopi cesa avahananaṭṭhena rāsaṭṭhena ca* ***[[ogho]]****ti veditabbo.* ***[[Avahananaṭṭhenā]]****ti adhogamanaṭṭhena. Ayañhi attano vasaṃ gate satte adho gameti, nirayādibhedāya duggatiyaṃyeva nibbatteti, uparibhāvaṃ vā nibbānaṃ gantuṃ adento adho tīsu bhavesu catūsu yonīsu pañcasu gatīsu sattasu viññāṇaṭṭhitīsu navasu sattāvāsesu ca gametītipi attho.* ***[[Rāsaṭṭhenā]]****ti mahantaṭṭhena. Mahā heso kilesarāsi avīcito paṭṭhāya yāva bhavaggā patthaṭo, yadidaṃ pañcasu kāmaguṇesu chandarāgo nāma.* [Và tất cả điều ấy được hiểu là “***[[ogho]]***” theo nghĩa cuốn trôi (*avahananaṭṭhena*) và theo nghĩa chất đống (*rāsaṭṭhena*). “***Avahananaṭṭhena – theo nghĩa cuốn trôi***” tức theo nghĩa cuốn trôi xuống. Thật vậy, có nghĩa là *ogho* nhấn chìm chúng sanh mà bị nó chi phối xuống, khiến sanh vào khổ cảnh với sự phân loại như địa ngục…, và nhấn chìm chúng sanh trong 3 giới (*bhavesu*), 4 loài (*yonīsu*), 5 cõi (*gatīsu*), 7 thức trú (*viññāṇaṭṭhitīsu*) và 9 chỗ trú của chúng sanh (*sattāvāsesu*) khi không cho đạt đến Nibbāna cao thượng. “***Rāsaṭṭhena – theo nghĩa chất đống***” tức theo nghĩa rộng lớn. Thật vậy, đống phiền não to lớn ấy trải dài từ cõi địa ngục Avīci (*avīcito*) cho đến cõi cao nhất (*bhavaggā*), tức được gọi là “*chandarāgo – dục ái* (*chanda=dubbalataṇhā=nhược ái* & *rāgo=balavataṇhā=cường ái*)” trong 5 cảnh dục.]

@@ -1,0 +1,6 @@
+---
+type: tu_vung
+---
+# Kāyan
+
+**Dhp-ṭhā.ii.p346**: ***[[Kāyan]]****ti kā ayaṃ.* ***[[Eḷagalāgumbe]]****ti kambojigumbe.* ***[[Ahuhāsiyan]]****ti dantavidaṃsakaṃ mahāhasitaṃ vuccati, taṃ kā esā etasmiṃ gumbe karotīti pucchati.* ***[[Nayīdha naccagītaṃ vā]]****ti imasmiṃ ṭhāne kassaci naccantassa naccaṃ vā gāyantassa gītaṃ vā hatthe susamāhite katvā vādentassa susamāhitaṃ hatthatāḷaṃ vā natthi, kaṃ disvā tvaṃ haseyyāsīti dīpeti.* ***[[Anamhikāle]]****ti rodanakāle.* ***[[Susoṇī]]****ti sundarasoṇi.* ***[[Kiṃ nu jagghasī]]****ti kena kāraṇena tvaṃ rodituṃ yuttakāle arodamānāva mahāhasitaṃ hasasi.* ***[[Sobhane]]****ti taṃ pasaṃsanto ālapati.* (‘*Kā ayaṃ*’ gọi là ‘*Kāyaṃ*’. Bụi cây *kamboji* gọi là ‘*Eḷagalāgumbe*’. ‘*Ahuhāsiyaṃ*’ tức là sự cười lớn lộ răng, điều này đặt ra vấn đề là: "Cô gái nào đang làm gì trong bụi cây?". ‘*Nayīdha naccagītaṃ vā*’ tức là không có sự nhảy múa của bất kỳ ai đang nhảy múa hoặc không có sự ca hát của bất kỳ ai đang ca hát hoặc không có sự gõ tay một cách khéo léo của bất kỳ ai đang chơi nhạc cụ ngay tại chỗ đấy; điều này giải thích việc bạn thấy gì mà cười vậy. ‘*Anamhikāle*’ tức lúc đang khóc. ‘*Susoṇi*’ tức hỡi cô gái eo thon!. ‘*Kiṃ nu jagghasi’* tức là vì lý do gì mà bạn cười lớn trong lúc đáng lẽ phải khóc. ‘*Sobhane*’ tức dùng từ này lúc đang tán thán.

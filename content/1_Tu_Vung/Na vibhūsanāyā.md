@@ -1,0 +1,6 @@
+---
+type: tu_vung
+---
+# Na vibhūsanāyā
+
+***[[Na vibhūsanāyā]]****ti sarīre maṃsavibhūsanatthāya* (*Vibhūsaṭṭhānāti maṃsavibhūsā chavivibhūsāti dve vibhūsā. Tattha ajjhoharaṇīyāhāro maṃsavibhūsā nāma, mālāgandhādīni chavivibhūsā nāma.* – Có 2 sự trang điểm: trang điểm phần thịt {*maṃsavibhūsā*}  & trang điểm phần da {*chavivibhūsā*}. Trong đó, thức ăn mà nên ăn được gọi là “*trang điểm phần thịt*”, còn vòng hoa-hương thơm… được gọi là “*trang điểm phần da*”.) *na āhāreti. Tattha nibbuddhamallamuṭṭhikamallaceṭakādayo susiniddhehi macchamaṃsādīhi sarīraṃ pīṇenti ‘‘evaṃ no maṃsaṃ ussadaṃ bhavissati pahārasahanatthāyā’’ti. Ayaṃ pana bhikkhu evaṃ sarīre maṃsavibhūsanatthāya na āhāreti.* [***[[Na vibhūsanāya]]*** tức vị ấy không ăn vì mục đích trang điểm phần thịt (*maṃsavibhūsana*). Trong đó, những kẻ đô vật, những kẻ đấu quyền, các nô lệ… bồi bổ thân thể bằng các loại thịt cá mềm mại vì nghĩ rằng “Thịt/cơ bắp của chúng ta sẽ đầy đặn như vậy nhằm mục đích chống chịu được lúc chiến đấu”. Còn vị tỳ-khưu này không có ăn như vậy vì mục đích làm đầy thịt/cơ bắp trên thân.]

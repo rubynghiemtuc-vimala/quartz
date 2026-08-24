@@ -1,0 +1,8 @@
+---
+type: tu_vung
+---
+# Samatho
+
+ **M-ṭhā.i-b.452**: ***[[Samatho]]****ti vipassanāpādikā aṭṭha samāpattiyo.* ***[[Vipassanā]]****ti sattavidhā anupassanā. Catupārisuddhisīlañhi pūrentassa, sappāyadhammassavanaṃ suṇantassa, kammaṭṭhāne khalanapakkhalanaṃ chindantassa, vipassanāpādikāsu aṭṭhasamāpattīsu kammaṃ karontassa, sattavidhaṃ anupassanaṃ****[1]*** *bhāventassa arahattamaggo uppajjitvā phalaṃ deti.* [Tám thiền chứng (Hữu sắc & Vô sắc) làm nền tảng cho *Vipassanā* (thiền quán) được gọi là “***samatho – thiền định***”. Bảy sự tuỳ quán (1/*aniccānupassanā*-vô thường tuỳ quán, 2/*dukkhānupassanā*-khổ tuỳ quán, 3/*anattānupassanā*-vô ngã tuỳ quán, 4/*nibbidānupassanā*-nhàm chán tuỳ quán, 5/*virāgānupassanā*-ly tham tuỳ quán, 6/*nirodhānupassanā*-đoạn diệt tuỳ quán, 7/*paṭinissaggānupassanā*-xả ly tuỳ quán) được gọi là “***vipassanā – thiền quán***”. Thật vậy, thánh Đạo Arahaṃ khởi lên & thánh Quả Arahaṃ phát ra cho người đang tuần tự kiện toàn 4 thanh tịnh giới (*catupārisuddhisīla*), đang lắng nghe pháp hữu vi (*sappāyadhamma*), đang loại bỏ sự buông lơi nơi thiền mục (*kammaṭṭhāne*), đang phát triển 8 thiền chứng là nền tảng cho Vipassanā, và đang tu tập 7 sự tuỳ quán.]
+
+**A-ṭhā.ii.p62**: ***[[Samatho]]****ti cittekaggatā.* ***[[Vipassanā]]****ti saṅkhārapariggāhakaññāṇaṃ*. [Trạng thái nhất tâm được gọi là “***samato – thiền định***”. Trí ghi nhận hoàn toàn về pháp hữu vi (=5 thủ uẩn, *pañcupādānakkhandha*)]**Psm-ṭhā.i.7**: ***[[Vipassanā]]****ti ca vividhā passanā vipassanā*. [Sự thấy đa dạng được gọi là “***[[vipassanā]]***”.]

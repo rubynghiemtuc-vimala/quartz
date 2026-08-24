@@ -1,0 +1,6 @@
+---
+type: tu_vung
+---
+# Bahussutan
+
+***Sn-ṭhā.58**: ***[[Bahussutan]]****ti duvidho bahussuto tīsu piṭakesu atthato nikhilo pariyattibahussuto ca, maggaphalavijjābhiññānaṃ paṭividdhattā paṭivedhabahussuto ca.* [Về ý nghĩa, *bahussuto-đa văn* gồm 2 loại: 1/*pariyattibahussuto-đa văn học pháp* toàn bộ trong Tam tạng Phật ngôn & 2/*paṭivedhabahussuto-đa văn chứng ngộ* do sự thấu triệt Đạo-Quả-minh-thắng trí.] / ***Ud-ṭhā.43**: ***[[Sutan]]****ti pariyattibāhusaccaṃ paṭivedhabāhusaccañcāti duvidhampi sutaṃ. Pariyattidhammāpi hi tena dhammassavanakāle saccappaṭivedhāya sāvakehi yathāladdhappakāraṃ sutā paricitā manasānupekkhitā diṭṭhiyā suppaṭividdhā cāti*. [2 loại *sutaṃ* gồm: 1/trạng thái đa văn (*bāhusaccaṃ=bahussutabhavaṃ*) học Pháp (*pariyattibāhusaccaṃ*) & 2/trạng thái đa văn chứng ngộ (*paṭivedhabāhusaccaṃ*) được gọi là chung là “***[[sutaṃ]]***”. Thật vậy, các pháp *pariyatti*(=*tipiṭaka*) được lắng nghe và được thực hành theo cách như đã nhận lấy trong lúc nghe Pháp, được tuỳ quán bằng ý và được khéo thấu triệt bằng chánh kiến bởi chư thinh văn nhằm thấu triệt 4 đế.]
