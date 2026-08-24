@@ -1,12 +1,12 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: "Từ Điển Pali"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
     provider: plausible
-  locale: en-US
+  locale: vi-VN
   baseUrl: quartz.jzhao.xyz
   ignorePatterns:
     - private
@@ -16,9 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
-      code: IBM Plex Mono
+      header: Merriweather
+      body: Inter
+      code: Fira Code
     colors:
       lightMode:
         light: "#faf8f8"
@@ -26,9 +26,9 @@ configuration:
         gray: "#b8b8b8"
         darkgray: "#4e4e4e"
         dark: "#2b2b2b"
-        secondary: "#284b63"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        secondary: "#A63A29"
+        tertiary: "#D96C00"
+        highlight: rgba(217, 108, 0, 0.1)
         textHighlight: "#fff23688"
       darkMode:
         light: "#161618"
@@ -36,9 +36,9 @@ configuration:
         gray: "#646464"
         darkgray: "#d4d4d4"
         dark: "#ebebec"
-        secondary: "#7b97aa"
-        tertiary: "#84a59d"
-        highlight: rgba(143, 159, 169, 0.15)
+        secondary: "#E07A5F"
+        tertiary: "#F4A261"
+        highlight: rgba(224, 122, 95, 0.15)
         textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
@@ -203,8 +203,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        "Tỳ Kheo Giác Nguyên": "#"
+        "Lớp Học Pali": "#"
     layout:
       position: footer
       priority: 50
