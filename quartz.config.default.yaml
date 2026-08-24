@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Merriweather
-      body: Inter
+      header: Noto Serif
+      body: Noto Serif
       code: Fira Code
     colors:
       lightMode:
