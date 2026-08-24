@@ -10,4 +10,6 @@ voropeti = vi+ava+√lup+ṇe+ti (ava>o-P.45,u>o-P.489,l>r-K.20)-Xem lumpati
 
 
 **Ý nghĩa (Meaning):**
-1) deprives (of); removes (from); cuts off (from); takes down (from)2) to deprive of live, to kill (in phrase “jīvitā voropeti”)
+1) deprives (of); removes (from); cuts off (from); takes down (from)
+
+2) to deprive of live, to kill (in phrase “jīvitā voropeti”)

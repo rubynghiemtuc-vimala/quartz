@@ -10,4 +10,6 @@ upakkilissati = upa+√kilisa+ya+ti (k>kk-P.40, sy>s>ss-P.447)
 AK: upakkiliṭṭha = upa+√kilisa+ta (k>kk-P.40, st>ṭṭh-P.626)
 
 **Ý nghĩa (Meaning):**
-should cause to worry and afflict.AK: defiled (by); blemished (by); stained (by); contaminated (by)
+should cause to worry and afflict.
+
+AK: defiled (by); blemished (by); stained (by); contaminated (by)

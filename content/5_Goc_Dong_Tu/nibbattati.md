@@ -10,4 +10,6 @@ nibbattati = ni+√vat+a+ti (v>vv>bb-P.42,t>tt-P.40/K.28)
 
 
 **Ý nghĩa (Meaning):**
-1) re-arises; re-appears; regrows; is reborn2) is born; arises; appears
+1) re-arises; re-appears; regrows; is reborn
+
+2) is born; arises; appears

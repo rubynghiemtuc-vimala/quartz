@@ -4,10 +4,80 @@ type: goc_dong_tu
 # karoti
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**
-karoti = kurute = kubbati = krubbati (Ref. K.522, K.523, K.524,)karoti = √kar+o+ti 18022025_Pali VerbsSyn.: 1) abhisaṅkharoti, ācarati, carati, pakubbati, samācarati; 3) māpetikurute = √kar+o+te (o>u-P.521/K.511, a>u-P.522/K.512)[karo>karu-P.521>kuru-P.522]kubbati = √kar+o+ti (o>u2-P.521, a>u1-P.522, u2>v-P.505, r-P.488, v>vv-P.40, vv>bb-P.27)[karo>karu-P.521>kuru-P.522>kurv-P.505)>kuv-P.488>kuvv-P.40>kubb-P.27]krubbati = √kar+o+ti (o>u2-P.521, a>u1-P.522, ku>kru-P.488,u2>v-P.505, r-P.488, v>vv-P.40, vv>bb-P.27)[karo>karu-P.521>kuru-P.522>kruru-P.488>krurv-P.505>kruv-P.488 >kruvv-P.40>krubb-P.27]Aj.(III,s): (a)kāsi = 1) (a)√kar>√kās (P.523)+o+i, 2) (a)√kar>√kā+(↑s)+o+i (√kar>√kā,↑s-P.523)Aj.(III,p): (a)kaṃsu = 1) (a)√kar>√kās (P.523)+o+uṃ>aṃsu (P.470/K.504)2) (a)√kar>√kā+o+uṃ>aṃsu (P.470) (√kar>√kā-P.523)√kar>√kās: akāsi, akāsuṃ; akāsi, akāsittha; akāsiṃ, akāsimha(P.523/K.491)P.523. Karassa kāsattamajjatanimhi. Kara iccetassa dhātussa sabbasseva kāsattaṃ hoti vā ajjatanimhi vibhattimhi pare…Akāsi, akāsuṃ. Akāsi,akāsittha. Akāsiṃ, akāsimha. Akāsittha. Kāsattābhāve akari, kari, akariṃsu, kariṃsu, akaṃsu, akaruṃ. Akari, akarittha. Akariṃ, kariṃ, akarimha, karimha. Akarittha. Akarīyittha, akarīyi vā.Hīy.(III,s): (a)kā = (a)√kar>√kā (P.523)+o+āP.522. Karass’ā-kāro ca… Hiyyattaniyaṃ ”karassa kā”ti yogavibhāgena kā hoti, saralopādi. Akā, akarā, akarū. Akaro, akattha, akarottha. Akaṃ, akaraṃ, akamha, akaramha. Akattha. Akariṃ, akaramhase.Sat.(III,s): kayirā = kar+yira+eyya>ā (Sad-dhā.p273, Sad-sut.1081, Moggallānasuttapāṭho.71, P..522: ‘yirato eyyassa āttaṃ’)Sat-dhā,p.275: tatra kayirāthāti padaṃ sattamiyā parassapadavasena attanopadavasena ca dvidhā bhijjati, tathā majjhimapurisabahuvacanavasena paṭhamapurisekavacanavasena ca.Caus.: kāreti = √kar+ṇe+ti (a>ā); kārayati (e>āy-P.489)Syn.: 2) carati, samāpajjati
+karoti = kurute = kubbati = krubbati (Ref. K.522, K.523, K.524,)
+
+karoti = √kar+o+ti 18022025_Pali Verbs
+
+Syn.: 1) abhisaṅkharoti, ācarati, carati, pakubbati, samācarati; 3) māpeti
+
+kurute = √kar+o+te (o>u-P.521/K.511, a>u-P.522/K.512)
+
+[karo>karu-P.521>kuru-P.522]
+
+kubbati = √kar+o+ti
+
+(o>u2-P.521, a>u1-P.522, u2>v-P.505, r-P.488, v>vv-P.40, vv>bb-P.27)
+
+[karo>karu-P.521>kuru-P.522>kurv-P.505)>kuv-P.488>kuvv-P.40>kubb-P.27]
+
+krubbati = √kar+o+ti (o>u2-P.521, a>u1-P.522, ku>kru-P.488,u2>v-P.505, r-P.488, v>vv-P.40, vv>bb-P.27)
+
+[karo>karu-P.521>kuru-P.522>kruru-P.488>krurv-P.505>kruv-P.488 >kruvv-P.40>krubb-P.27]
+
+Aj.(III,s): (a)kāsi = 1) (a)√kar>√kās (P.523)+o+i,
+
+2) (a)√kar>√kā+(↑s)+o+i (√kar>√kā,↑s-P.523)
+
+Aj.(III,p): (a)kaṃsu = 1) (a)√kar>√kās (P.523)+o+uṃ>aṃsu (P.470/K.504)
+
+2) (a)√kar>√kā+o+uṃ>aṃsu (P.470) (√kar>√kā-P.523)
+
+√kar>√kās: akāsi, akāsuṃ; akāsi, akāsittha; akāsiṃ, akāsimha(P.523/K.491)
+
+P.523. Karassa kāsattamajjatanimhi. Kara iccetassa dhātussa sabbasseva kāsattaṃ hoti vā ajjatanimhi vibhattimhi pare…Akāsi, akāsuṃ. Akāsi,akāsittha. Akāsiṃ, akāsimha. Akāsittha. Kāsattābhāve akari, kari, akariṃsu, kariṃsu, akaṃsu, akaruṃ. Akari, akarittha. Akariṃ, kariṃ, akarimha, karimha. Akarittha. Akarīyittha, akarīyi vā.
+
+Hīy.(III,s): (a)kā = (a)√kar>√kā (P.523)+o+ā
+
+P.522. Karass’ā-kāro ca… Hiyyattaniyaṃ ”karassa kā”ti yogavibhāgena kā hoti, saralopādi. Akā, akarā, akarū. Akaro, akattha, akarottha. Akaṃ, akaraṃ, akamha, akaramha. Akattha. Akariṃ, akaramhase.
+
+Sat.(III,s): kayirā = kar+yira+eyya>ā (Sad-dhā.p273, Sad-sut.1081, Moggallānasuttapāṭho.71, P..522: ‘yirato eyyassa āttaṃ’)
+
+Sat-dhā,p.275: tatra kayirāthāti padaṃ sattamiyā parassapadavasena attanopadavasena ca dvidhā bhijjati, tathā majjhimapurisabahuvacanavasena paṭhamapurisekavacanavasena ca.
+
+Caus.: kāreti = √kar+ṇe+ti (a>ā); kārayati (e>āy-P.489)
+
+Syn.: 2) carati, samāpajjati
 
 **Các trường hợp bất quy tắc (Irreg. cases of AK, PK, a-a, t-p):**
-AK: kata = √kar+ta (r-P.632/K.587)PK: karaṃ = √kar+o+nta>aṃ (P.107/K.186)karonta,kurumāna, kubbāna (sad.dhā p.276, P.646)KNPT: kātabbo/kātuṃ = √kar>√kā (P.637/K.595)+tabbo/tuṃ (TNPCII-15A6) kattabbo = √kar+tabbo (r>t-P.549/P.637)a-a: katvā = √kar+tvā (r-P.632/P.640); kātuna = √kar>√kā (P.637)+tunat-p: kātuṃ = √kar>√kā (P.637/K.595)+tuṃ (TNPCII-15A6)kattuṃ = √kar+tuṃ (r>t-P.549/P.637)P.640. Pubbakāle’kakattukānaṃ tuna-tvāna-tvā vā… Tvānatvāsu ”rakāro cā”ti dhātvantalopo, kammaṃ katvāna bhadrakaṃ, dānādīni puññāni katvā saggaṃ gacchatiP.637. Tave-tun’ādīsu kā. Tavetunaiccevamādīsu paccayesu paresu karotissa dhātussa kādeso hoti vā,ādisaddena tuṃtvāna tvā tabbesu ca. …So puññāni kātave icchati, kātumicchati.
+AK: kata = √kar+ta (r-P.632/K.587)
+
+PK: karaṃ = √kar+o+nta>aṃ (P.107/K.186)
+
+karonta,kurumāna, kubbāna (sad.dhā p.276, P.646)
+
+KNPT: kātabbo/kātuṃ = √kar>√kā (P.637/K.595)+tabbo/tuṃ (TNPCII-15A6)
+
+kattabbo = √kar+tabbo (r>t-P.549/P.637)
+
+a-a: katvā = √kar+tvā (r-P.632/P.640); kātuna = √kar>√kā (P.637)+tuna
+
+t-p: kātuṃ = √kar>√kā (P.637/K.595)+tuṃ (TNPCII-15A6)
+
+kattuṃ = √kar+tuṃ (r>t-P.549/P.637)
+
+P.640. Pubbakāle’kakattukānaṃ tuna-tvāna-tvā vā… Tvānatvāsu ”rakāro cā”ti dhātvantalopo, kammaṃ katvāna bhadrakaṃ, dānādīni puññāni katvā saggaṃ gacchati
+
+P.637. Tave-tun’ādīsu kā. Tavetunaiccevamādīsu paccayesu paresu karotissa dhātussa kādeso hoti vā,ādisaddena tuṃtvāna tvā tabbesu ca. …So puññāni kātave icchati, kātumicchati.
 
 **Ý nghĩa (Meaning):**
-1) does; acts; performs; 2) makes3) builds; constructsCaus.: 1) makes one do; causes to make2) performs; practices; 3) (vinaya) deals with; settles4) builds; has constructed; 5) executes; wields
+1) does; acts; performs; 2) makes
+
+3) builds; constructs
+
+Caus.: 1) makes one do; causes to make
+
+2) performs; practices;
+
+3) (vinaya) deals with; settles
+
+4) builds; has constructed; 5) executes; wields

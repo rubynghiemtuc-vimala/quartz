@@ -10,4 +10,8 @@ vattanti = √vat+a+ti (t>tt-P.40)
 AK: vatta = √vat+ta
 
 **Ý nghĩa (Meaning):**
-1) proceeds; continues; goes forward; practices 2) exists; occurs; happens; takes place3) fares on (in); walks (in); continues (in); adheres (to); 4) (of power) wields; exercises
+1) proceeds; continues; goes forward; practices
+
+2) exists; occurs; happens; takes place
+
+3) fares on (in); walks (in); continues (in); adheres (to); 4) (of power) wields; exercises

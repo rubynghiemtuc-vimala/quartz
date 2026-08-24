@@ -10,4 +10,6 @@ paṭhati = √paṭh+a+ti
 
 
 **Ý nghĩa (Meaning):**
-1) reads; recites2) (of a text) has the reading
+1) reads; recites
+
+2) (of a text) has the reading

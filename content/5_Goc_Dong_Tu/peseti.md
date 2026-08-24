@@ -10,4 +10,6 @@ peseti = √pis+ṇe+ti (i>e), pesayati
 
 
 **Ý nghĩa (Meaning):**
-1) sends; sends out, sends for2) employs; 3) drives (to); drives out (to)
+1) sends; sends out, sends for
+
+2) employs; 3) drives (to); drives out (to)

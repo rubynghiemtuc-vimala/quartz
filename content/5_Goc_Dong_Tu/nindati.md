@@ -10,4 +10,6 @@ nindati = √nid+(↑ṃ)a (P.57)+ti (dṃ>ṃd, ṃd>nd-P.49)
 
 
 **Ý nghĩa (Meaning):**
-(=kucchāyaṃ, garahe - chỉ trích, la rầy)blames; criticize; find fault
+(=kucchāyaṃ, garahe - chỉ trích, la rầy)
+
+blames; criticize; find fault

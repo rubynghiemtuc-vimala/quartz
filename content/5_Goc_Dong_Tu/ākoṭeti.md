@@ -10,4 +10,6 @@ type: goc_dong_tu
 
 
 **Ý nghĩa (Meaning):**
-1) knocks; taps; beats; 2) compresses3)  beats; pounds; pummels
+1) knocks; taps; beats; 2) compresses
+
+3)  beats; pounds; pummels

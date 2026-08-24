@@ -10,4 +10,6 @@ likhati = √likh+a+ti
 
 
 **Ý nghĩa (Meaning):**
-1) scrapes; shaves off; planes; carves2) draws; paints; 3) writes, inscribes
+1) scrapes; shaves off; planes; carves
+
+2) draws; paints; 3) writes, inscribes
