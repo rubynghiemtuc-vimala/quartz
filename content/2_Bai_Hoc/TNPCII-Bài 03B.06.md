@@ -1,0 +1,29 @@
+# TNPCII-Bài 03B.06
+
+**Đề**: The persons who have observed the precepts without any breach will be born in heaven and will obtain immense happiness. (Những người đã gìn giữ các điều giới mà không có bất cứ sự vi phạm/hư hoại nào sẽ (*paṭisandhikāla*-thời tái sanh) [/sẽ(*pavattikāla*-thời bình thường)] sanh lên cõi trời và sẽ được hạnh phúc vô biên.)
+
+**Dịch**:  *Kiṃ/yaṃ bhedanaṃ vinā sikkhāpadāni rakkhitā purisā sagge nibbattitvā (saggaṃ gantvā) atimahantaṃ sukhaṃ labhissanti.*
+
+**Chú giải:**
+
+**Vbh-ṭhā.703**: ***[[Sikkhāpadānī]]****ti sikkhitabbapadāni, sikkhākoṭṭhāsāti attho. Apica upari āgatā sabbepi kusalā dhammā sikkhitabbato sikkhā. Pañcasu pana sīlaṅgesu yaṃkiñci aṅgaṃ tāsaṃ sikkhānaṃ patiṭṭhānaṭṭhena padanti sikkhānaṃ padattā* ***[[sikkhāpadāni]]****.* [Những điều cần tu học được gọi là “***[[sikkhāpadāni]]***”, tức có nghĩa các phần của sự tu học {*tisikkhā*}. Mọi thiện pháp mà xuất hiện ở trên được gọi là “*sikkhā*” theo nghĩa cần được tu học. Còn bất kỳ phần nào trong Ngũ giới đều được gọi là “*padaṃ*” theo nghĩa nâng đỡ cho Tam học ấy; do trạng thái nâng đỡ cho tam học nên được gọi là “***[[sikkhāpadāni]]***”]
+
+**Thera-ṭhā.27**: ***[[Rakkhatī]]****ti apāyadukkhato rakkhati, saṃsāradukkhato ca vivaṭṭūpanissayabhūto*{=*puññaṃ*} *rakkhatiyeva.* [Pháp {*dhammo*} bảo vệ người hành pháp {*dhammacārinti taṃ dhammaṃ carantaṃ paṭipajjantaṃ*} khỏi khổ đoạ xứ, khỏi khổ luân hồi và bảo vệ trạng thái hỗ trợ cho sự xuất luân hồi.]
+
+ **Netti-ṭhā.91**: ***[[Saggan]]****ti sugatiṃ. Sā hi rūpādīhi sobhanehi aggoti saggoti adhippetā*. [cõi lành được gọi là “***[[saggaṃ]]***”. Thật vậy, cõi lành ấy đồng nghĩa với “*saggo*” vì là tối thắng bởi các vẻ đẹp của hình sắc…]
+
+**Psm.173**: ***[[Sukhan]]****ti dve sukhāni****[1]*** *– kāyikañca****[2]*** *sukhaṃ, cetasikañca****[3]*** *sukhaṃ. Katamaṃ kāyikaṃ sukhaṃ? Yaṃ kāyikaṃ* *sātaṃ****[4]*** *kāyikaṃ* *sukhaṃ****[5]****,* *kāyasamphassajaṃ****[6]*** *sātaṃ* (=***[[sātan]]****ti* *sātamadhuratā* {*sātaṃ=sabhāvavasena, madhuraṃ=upamāvasena*.}*/**sukhaṃ*) *sukhaṃ* *vedayitaṃ****[7]****,* *kāyasamphassajā sātā sukhā* ***[[vedanā]]*** *– idaṃ kāyikaṃ sukhaṃ. Katamaṃ cetasikaṃ sukhaṃ? Yaṃ cetasikaṃ sātaṃ cetasikaṃ sukhaṃ, cetosamphassajaṃ sātaṃ sukhaṃ vedayitaṃ, cetosamphassajā sātā sukhā vedanā – idaṃ cetasikaṃ sukhaṃ*. [“***Sukha –*** *lạc*” gồm 2 loại: 1/ lạc thuộc thân (*kāyikasukhaṃ*) & 2/ lạc thuộc tâm (*cetasikasukhaṃ*). Thế nào là *kāyikasukhaṃ*? Cái nào thỏa thích thuộc thân dễ chịu thuộc thân, đây là lạc thuộc thân (*kāyikasukhaṃ*); cái nào mà được cảm nghiệm thỏa thích và dễ chịu phát sinh trong thân xúc, đây là lạc thuộc thân (*kāyikasukhaṃ*); *vedanā* nào mà được cảm nghiệm thỏa thích và dễ chịu phát sinh trong thân xúc, đây là lạc thuộc thân (*kāyikasukhaṃ*). Thế nào là *cetasikasukhaṃ*? Cái nào thỏa thích thuộc tâm dễ chịu thuộc tâm, đây là lạc thuộc tâm (*cetasikasukhaṃ*); cái nào mà được cảm nghiệm thỏa thích và dễ chịu phát sinh trong ý xúc, đây là lạc thuộc tâm (*cetasikasukhaṃ*); *vedanā* nào mà được cảm nghiệm thỏa thích và dễ chịu phát sinh trong ý xúc, đây là lạc thuộc tâm (*cetasikasukhaṃ*).]         
+
+[1] **Psm-ṭhā.173**: ***[[Dve sukhānī]]****ti samathavipassanābhūmidassanatthaṃ vuttaṃ*. *Kāyikañhi sukhaṃ vipassanāya bhūmi, cetasikaṃ sukhaṃ samathassa ca vipassanāya ca bhūmi*. (“***[[Dve sukhāni]]***” tức nói đến việc giải thích 2 phạm trù *sukha* từ thiền Định (*samatha*) & thiền Quán (*vipassanā*). Thật vậy, lạc thuộc thân (*kāyikasukhaṃ*) là phạm trù của thiền *vipassanā*, còn lạc thuộc tâm (*cetasikasukhaṃ*) là phạm trù của thiền *samatha & vipassanā.*
+
+[2] ***[[Kāyikan]]****ti pasādakāyaṃ vinā anuppattito* (=*na uppajjanato*) *kāye niyuttanti kāyikaṃ.* (“***[[Kāyikaṃ]]*** *- thuộc thân*” tức cái gắn liền trong thân vì không khởi lên được nếu không có tế bào thân {*pasādakāyaṃ*})
+
+[3] ***[[Cetasikan]]****ti avippayogavasena cetasi niyuttanti cetasikaṃ. Tattha kāyikapadena cetasikaṃ sukhaṃ paṭikkhipati, sukhapadena kāyikaṃ dukkhaṃ. Tathā cetasikapadena kāyikaṃ sukhaṃ paṭikkhipati, sukhapadena cetasikaṃ dukkhaṃ*. (“***[[Cetasikaṃ]]*** *- thuộc tâm*” tức cái gắn liền trong tâm ý theo nghĩa bất ly. Trong đó (=*kāyika-sukhaṃ*), dùng từ “*kāyika*” để bác bỏ lạc thuộc tâm {*cetasikasukhaṃ*}, dùng từ “*sukha*” để bác bỏ khổ thuộc thân {*kāyikadukhaṃ*}. Tương tự, trong *cetasika-sukhaṃ*, dùng từ “*cetasika*” để bác bỏ lạc thuộc thân{*kāyikasukhaṃ*}, dùng từ “*sukha*” để bác bỏ khổ thuộc tâm{*cetasikadukhaṃ*})
+
+[4] ****[[Sātan]]****ti madhuraṃ sumadhuraṃ*. (Ngọt hay rất ngọt được gọi là “***[[sātaṃ]]***”) / ***Sārattha-ṭī.i.361**: *sampayuttadhamme vā attani sādayatīti sātaṃ* (Cái khiến tự mình đắm chìm nơi các pháp tương ưng được gọi là “*sātaṃ*” / Người mà tự vui thích nơi các pháp tương ưng được gọi là “*sātaṃ*”)
+
+[5] ***[[Sukhan]]****ti sukhameva, na dukkhaṃ*. (Chính là *sukhaṃ*, chứ không phải là *dukkhaṃ*)
+
+[6] ***[[Kāyasamphassajan]]****ti kāyasamphasse jātaṃ*. (cái được sanh ra trong sự xúc chạm của thân được gọi là “***[[kāyasamphassajaṃ]]***”)
+
+[7]  ***[[Sātaṃ sukhaṃ vedayitan]]****ti sātaṃ vedayitaṃ, na asātaṃ vedayitaṃ. Sukhaṃ vedayitaṃ, na dukkhaṃ vedayitaṃ. Parato tīṇi padāni itthiliṅgavasena vuttāni. Sātā vedanā, na asātā. Sukhā vedanā, na dukkhāti ayameva panettha attho.* (“***[[Sātaṃ sukhaṃ vedayitaṃ]]***” tức được cảm nghiệm hài lòng/ngọt ngào {*sātaṃ*}, chứ không phải được cảm nghiệm bất mãn/đắng cay {*asātaṃ*}. Hoặc được cảm nghiệm dễ chịu{*sukhaṃ*}, chứ không phải được cảm nghiệm khó chịu{*dukkhaṃ*}. Ba từ sau {*kāyasamphassajā, sātā, sukhā*} được dùng theo nghĩa nữ tính, tức có nghĩa “Đây là thọ ngọt ngào {*sātā vedanā*}, chứ không phải là thọ đắng cay {*asātā*}. Đây là thọ lạc {*sukhā*}, không phải là thọ khổ {*dukkhā*}”.)
