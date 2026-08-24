@@ -203,7 +203,7 @@ plugins:
     enabled: true
     options:
       links:
-        "Tỳ Kheo Giác Nguyên": "#"
+        "Sư Thiện Hảo - Vāyāma": "https://confirmed-roquefort-510.notion.site/Ph-n-gi-i-BT-c-c-l-p-PL-S-Thi-n-H-o-1aae12f1c29e80949d11d616396324a1?pvs=74"
         "Lớp Học Pali": "#"
     layout:
       position: footer
