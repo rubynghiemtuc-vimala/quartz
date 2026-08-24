@@ -4,6 +4,22 @@ type: goc_dong_tu
 # adhivasati
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**
+adhivasati = adhi+√vas+a+ti
+
+Caus.: adhivāseti = adhi+√vas+ṇe+ti (a>ā)
+
+**Các trường hợp bất quy tắc (Irreg. cases of AK, PK, a-a, t-p):**
+
+
+**Ý nghĩa (Meaning):**
+inhabits, lives in
+
+
+---
+
+# adhivasati
+
+**Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**
 adhivasati = adhi+ā+√vas+a+ti
 
 Ref. vasati
