@@ -1,6 +1,5 @@
 ---
 type: goc_dong_tu
----
 # paccāgacchati
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**

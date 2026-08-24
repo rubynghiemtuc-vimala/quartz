@@ -1,6 +1,5 @@
 ---
 type: goc_dong_tu
----
 # bhājeti
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**

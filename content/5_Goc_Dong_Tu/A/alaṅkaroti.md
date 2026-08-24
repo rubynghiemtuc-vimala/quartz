@@ -1,6 +1,5 @@
 ---
 type: goc_dong_tu
----
 # alaṅkaroti
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**

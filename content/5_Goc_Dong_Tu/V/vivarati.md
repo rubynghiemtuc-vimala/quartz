@@ -1,6 +1,5 @@
 ---
 type: goc_dong_tu
----
 # vivarati
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**

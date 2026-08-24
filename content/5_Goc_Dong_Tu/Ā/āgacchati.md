@@ -1,6 +1,5 @@
 ---
 type: goc_dong_tu
----
 # āgacchati
 
 **Động từ / Gốc động từ (Present Tense & Irreg. cases; Caus., Pass.):**
